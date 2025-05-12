@@ -10,7 +10,7 @@
   
 ## 👩‍💻 About Me
 ### ✨ I am Haein Oh, a developer with perseverance!
-#### :computer: I’m currently majoring in Computer Science at Dongduk Women’s University (Class of 2023).
+#### :computer: I’m currently majoring in Computer Science at Dongduk Women’s University.
 #### :seedling: I enjoy transforming ideas into reality through development and embrace new challenges with passion.
 #### :muscle: I don’t give up easily — I strive to solve problems to the end.
 
@@ -36,11 +36,26 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 
-  ### Tools / Etc
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <br/><br/>
+### Tools / Etc
+<!-- IntelliJ -->
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+<!-- Android Studio -->
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<!-- GitHub -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<!-- Notion -->
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<!-- Figma (선택사항) -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<!-- Slack -->
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+
 
   ## 🏃‍♀️ Activities
   - 🔹 **GRAPE 해킹 동아리 (2023.03 ~ 2024.12)**  
@@ -53,7 +68,6 @@
 
   ## 📞 Contact
   - 📧 Email: ohhaein0405@gmail.com  
-  - 🐱 GitHub: [haein45](https://github.com/haein45)  
   - 📌 [프로젝트 소개 바로가기](https://www.notion.so/ba40b8f50d864c3f9139b3db7cc58441?pvs=21)
   <br/>
 
