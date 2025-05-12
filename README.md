@@ -20,9 +20,9 @@
    ## 🧱 Tech Stack
 
   ### Language
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -42,10 +42,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <br/><br/>
 
-  ## 🌱 Currently Studying
-  - [Java](https://www.notion.so/Java-aa45831d11164d4491263137bf574e4f?pvs=21)
-  - [Computer Science](https://www.notion.so/Computer-Science-92d5b19492ea46078f0a49c2ed4120fa?pvs=21)
-
   ## 🏃‍♀️ Activities
   - 🔹 **GRAPE 해킹 동아리 (2023.03 ~ 2024.12)**  
     - 웹 해킹 프로젝트 *Cat Homepage* 참여
@@ -58,7 +54,6 @@
   ## 📞 Contact
   - 📧 Email: ohhaein0405@gmail.com  
   - 🐱 GitHub: [haein45](https://github.com/haein45)  
-  - 🆔 Instagram: @haein4.5  
   - 📌 [프로젝트 소개 바로가기](https://www.notion.so/ba40b8f50d864c3f9139b3db7cc58441?pvs=21)
   <br/>
 
