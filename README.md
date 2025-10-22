@@ -10,7 +10,7 @@
   
 ## 👩‍💻 About Me
 ### ✨ I am Haein Oh, a developer with perseverance!
-#### :computer: I’m currently majoring in Computer Science at Dongduk Women’s University.
+#### :computer: I’m currently majoring in Computer Science
 #### :seedling: I enjoy transforming ideas into reality through development and embrace new challenges with passion.
 #### :muscle: I don’t give up easily — I strive to solve problems to the end.
 
