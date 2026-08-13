@@ -2,11 +2,10 @@
   <!--Body-->
   
 ## 👩‍💻 About Me
-### ✨ I am Haein Oh, a developer with perseverance!
-#### :computer: I’m currently majoring in Computer Science
-#### :seedling: I enjoy transforming ideas into reality through development and embrace new challenges with passion.
-#### :muscle: I don’t give up easily — I strive to solve problems to the end.
-
+### ✨ I am Haein Oh, a developer who builds and leads!
+#### :computer: I'm a 4th-year Computer Science student, exploring Platform Engineering, DevOps, and SRE
+#### :cloud: I lead my university's AWS Student Builder Group and love growing with the community
+#### :muscle: I don't give up easily! I strive to solve problems to the end
 
 <p align="center">
 
@@ -15,8 +14,8 @@
 ## Activities
 | 기간 | 활동명 | 역할 및 상세 내용 |
 |:--- |:--- |:--- |
-| **2026.05 ~ 현재** | **ACC(AWS Cloud Club) 4기** | **캡틴 (회장)** <br> • 클럽 총괄 운영 및 AWS 기술 리딩 |
-| **2026.03 ~ 현재** | **UMC 10기** | **DDWU UMC 부회장** <br> • 로직 설계 및 API 개발 |
+| **2026.05 ~ 현재** | **AWS Student Builder Group (ASBG) 4기** | **캡틴 (회장)** <br> • 클럽 총괄 운영 |
+| **2026.03 ~ 2026.08** | **UMC 10기** | **DDWU UMC 부회장** <br> • 로직 설계 및 API 개발 |
 | **2025.09 ~ 2025.02** | **UMC 9기** | **Spring Boot 파트장** <br> • 이공계 대학생을 위한 퍼스널 AI 튜터 proovy  백엔드 개발 & 인프라 |
 | **2025.09 ~ 2025.01** | **ACC (AWS Cloud Club) 3기** | **Core Member** <br> • AWS 인프라 구축 및 클라우드 기술 활용 |
 | **2025.07 ~ 2025.08** | **AWS 클라우드 서비스 직무캠프** | **직무 역량 강화** <br> • AWS 주요 서비스 실무 프로세스 경험 및 학습 |
@@ -32,4 +31,5 @@
 
 ### Certifications
 - toeic speaking AL
+- AWS Certified AI Practitioner
 
